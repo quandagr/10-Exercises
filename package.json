@@ -1,0 +1,20 @@
+{
+  "name": "10-exercises",
+  "version": "2.0.0",
+  "description": "Creating 10 different exercises",
+  "homepage": "https://github.com/quandagr/10-Exercises#readme",
+  "bugs": {
+    "url": "https://github.com/quandagr/10-Exercises/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quandagr/10-Exercises.git"
+  },
+  "license": "ISC",
+  "author": "Quanda Grant",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
