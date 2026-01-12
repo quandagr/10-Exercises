@@ -1,8 +1,8 @@
-let servers = [200, 404, 500].forEach(code => `Status received: ${code}`);
-console.log(servers);
+let logItems = ["200", "404", "500", "503"];
+
+logItems.forEach(item => console.log(`Status Code: ${item}`));
 // expected output:
-// Status received: 200
-// Status received: 404
-// Status received: 500
-
-
+// Status Code: 200
+// Status Code: 404
+// Status Code: 500
+// Status Code: 503
